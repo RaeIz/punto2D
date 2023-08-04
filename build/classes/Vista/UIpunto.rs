@@ -1,0 +1,12 @@
+vista.UIpunto$8
+vista.UIpunto$7
+vista.UIpunto
+vista.UIpunto$6
+vista.UIpunto$5
+vista.UIpunto$10
+vista.UIpunto$11
+vista.UIpunto$9
+vista.UIpunto$4
+vista.UIpunto$3
+vista.UIpunto$2
+vista.UIpunto$1
